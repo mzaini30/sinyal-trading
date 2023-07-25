@@ -2,19 +2,19 @@
   {
     "tanggal": "2023-07-25 11:23:19",
     "coin": "SUSHI",
-    "cut_loss": "10.11%",
+    "stop_loss": "10.11%",
     "take_profit": "21.12%"
   },
   {
     "tanggal": "2023-07-25 11:55:20",
     "coin": "SHIB",
-    "cut_loss": "6.87%",
+    "stop_loss": "6.87%",
     "take_profit": "14.27%"
   },
   {
     "tanggal": "2023-07-25 11:58:11",
     "coin": "APE",
-    "cut_loss": "9.69%",
+    "stop_loss": "9.69%",
     "take_profit": "19.44%"
   }
 ]
