@@ -46,5 +46,11 @@
     "coin": "UNI",
     "stop_loss": "7.49%",
     "take_profit": "15.07%"
+  },
+  {
+    "tanggal": "2023-07-27 15:38:40",
+    "coin": "DYDX",
+    "stop_loss": "9.38%",
+    "take_profit": "19.1%"
   }
 ]
