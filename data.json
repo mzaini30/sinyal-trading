@@ -16,5 +16,11 @@
     "coin": "APE",
     "stop_loss": "9.69%",
     "take_profit": "19.44%"
+  },
+  {
+    "tanggal": "2023-07-27 09:58:58",
+    "coin": "HBAR",
+    "stop_loss": "7.97%",
+    "take_profit": "15.94%"
   }
 ]
