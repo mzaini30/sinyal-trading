@@ -22,5 +22,11 @@
     "coin": "HBAR",
     "stop_loss": "7.97%",
     "take_profit": "15.94%"
+  },
+  {
+    "tanggal": "2023-07-27 10:42:07",
+    "coin": "UNI",
+    "stop_loss": "7.53%",
+    "take_profit": "15.31%"
   }
 ]
