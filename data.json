@@ -34,5 +34,11 @@
     "coin": "DYDX",
     "stop_loss": "9.31%",
     "take_profit": "19.48%"
+  },
+  {
+    "tanggal": "2023-07-27 11:54:44",
+    "coin": "APE",
+    "stop_loss": "9.53%",
+    "take_profit": "19.21%"
   }
 ]
