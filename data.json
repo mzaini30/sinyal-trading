@@ -58,5 +58,11 @@
     "coin": "FXS",
     "stop_loss": "7.99%",
     "take_profit": "16.59%"
+  },
+  {
+    "tanggal": "2023-07-31 21:29:48",
+    "coin": "FXS",
+    "stop_loss": "7.87%",
+    "take_profit": "15.99%"
   }
 ]
